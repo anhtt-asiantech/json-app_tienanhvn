@@ -1,8 +1,7 @@
 {
-    "grammar" : [
-         {
-            "type":1,
-            "title": "Sơ Cấp",
+            "version": 1,
+            "title": "Grammar",
+            "author" : "HungAnh",
             "lesson" : [
                 {
                     "lesson":0,
@@ -365,13 +364,7 @@
                     "type": 1,
                     "love" : 0,
                     "ads": 0
-                }
-            ]
-         },
-         {
-             "type": 2,
-             "title" :"Trung Cấp",
-             "lesson": [
+                },
                 {
                     "lesson":100,
                     "title":"Cấu trúc tiếng Hàn ~네요. (nhỉ, thế, quá, đấy….)",
@@ -444,16 +437,6 @@
                     "love" : 0,
                     "ads": 0
                 }
-             ]
-         },
-         {
-            "type": 3,
-            "title" :"Cao Cấp",
-            "lesson": [
-
             ]
-        }
-    ],
-    "version": 1,
-    "author" :"Hunganh" 
+        
 }
