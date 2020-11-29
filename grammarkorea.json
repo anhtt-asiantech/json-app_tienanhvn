@@ -1,0 +1,459 @@
+{
+    "grammar" : [
+         {
+            "type":1,
+            "title": "Sơ Cấp",
+            "lesson" : [
+                {
+                    "lesson":0,
+                    "title":"N + 은/는 -> S",
+                    "content":"<h3>Nội Dung (함유량)</h3><br/><ul><li>- Trợ từ chủ ngữ đứng sau danh từ, biến danh từ thành chủ ngữ trong câu</li><li>- Danh từ có phụ âm cuối + 은, danh từ không có phụ âm cuối + 는</li><li>- Nhấn mạnh vào phần vị ngữ</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 학생입니다 > Tôi là học sinh<\/span><br/><span>+  밥은 맛있어요 > Cơm thì ngon<\/span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                
+                },
+                {
+                    "lesson":1,
+                    "title":"N + 이/가 -> S : Tiểu từ chủ ngữ",
+                    "content":"<h3>Nội Dung (함유량)</h3><br/><ul><li>- Tiểu chủ ngữ đứng sau danh từ, biến danh từ thành chủ ngữ trong câu, tương tự 은/는</li><li>- Danh từ có phụ âm cuối + 이, danh từ không có phụ âm cuối + 가</li><li>- Nhấn mạnh vào phần chủ ngữ</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 제가 학생입니다 > Tôi là học sinh</span><br/><span>++ 이 집이 크네요 > Căn nhà to quá</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                
+                },
+                {
+                    "lesson":2,
+                    "title":"N + 을/를 -> O : Tân ngữ",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đứng sau danh từ đóng vai trò tân ngữ trong câu, là đối tượng (người, vật, con vật...) bị chủ ngữ tác động lên.</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 밥을 먹어요 > Tôi ăn cơm</span><br/><span>+ 엄마가 김치를 사요 > Mẹ tôi mua Kimchi</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":3,
+                    "title":"N + 입니다 : Là",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu định nghĩa, đứng sau danh từ định nghĩa nhằm giải thích cho chủ ngữ</li><li>- Đuôi câu này có nghĩa là \"Là\"</li><li>- Là đuôi câu kính ngữ cao nhất trong tiếng Hàn</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 학생입니다 -> Tôi là học sinh</span><br/><span>+ 제 형은 선생님입니다 > Anh tôi là giáo viên</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":4,
+                    "title":"N + 입니까? : Có phải là ....?",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu nghi vấn của 입니다</li><li>- Đuôi câu này có nghĩa là \"Có phải là...\"</li><li>- Là đuôi câu kính ngữ cao nhất trong tiếng Hàn</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 당신은 학생입니까? -> Bạn có phải là học sinh không?</span><br/><span>+ 민수 씨는 한국 사람입니까? > Bạn Minsu có phải là người Hàn Quốc không?</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":5,
+                    "title":"N + 예요/이에요: Là ",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu định nghĩa, đứng sau danh từ định nghĩa nhằm giải thích cho chủ ngữ</li><li>- Đuôi câu này có nghĩa là \"Là\"</li><li>- Là đuôi câu kính ngữ thân thiện trong tiếng Hàn, mức độ kính ngữ thấp hơn 입니다</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 학생이에요-> Tôi là học sinh</span><br/><span>+ 저는 요리사예요-> Tôi là đầu bếp</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":6,
+                    "title":"N + 이/가 아닙니다: Không phải là",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu phủ định, đứng sau danh từ nhằm phủ định chủ ngữ</li><li>- Đuôi câu này có nghĩa là \"Không phải là\"</li><li>- Là đuôi câu kính ngữ cao nhất trong tiếng Hàn, là dạng phủ định của 입니다</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 베트남 사람이 아닙니다 > Tôi không phải là người Việt Nam</span><br/><span>+ 이 시람은 제 친구가 아닙니다 > Người này không phải là bạn của tôi</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":7,
+                    "title":"N + 이/가 아니에요 : Không phải là",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu phủ định, đứng sau danh từ nhằm phủ định chủ ngữ</li><li>- Đuôi câu này có nghĩa là \"Không phải là\"</li><li>- Là đuôi câu kính ngữ thân thiện trong tiếng Hàn, là dạng phủ định của 예요/이에요</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 이것은 책이 아니에요 > Cái này không phải quyển sách</span><br/><span>+ 저 분은 우리 교수가 아니에요  > Vị đó không phải giáo sư của chúng tôi</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":8,
+                    "title":"N + 하고/와/과+ N : Và, với",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Liên từ nối giữa 2 danh từ, để thể hiện sự bổ sung</li><li>- Được dịch là \"Và\"</li><li>- Còn có nghĩa là \"với\" khi sử dụng trong cấu trúc (Chủ ngữ +은/는 hoặc 이/가 + Đối tượng nào đó + 하고/와/과 + Động từ)</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 밥하고 고기를 먹어요-> Tôi ăn cơm và thịt</span><br/><span>+ 저는 친구하고 학교에 가요 -> Tôi đi học với bạn tôi</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":9,
+                    "title":"V/A + ㅂ니다/습니다",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu kính ngữ trang trọng lịch sự nhất cho động từ/tính từ</li><li>- Động/tính từ có phụ âm cuối + 습니다</li><li>- Động/tính từ không có phụ âm cuối + ㅂ니다</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 밥을 먹습니다 > Tôi ăn cơm</span><br/><span>+ 지금 잡니다 > Bây giờ tôi ngữ</span><span>+ 날씨가 덥습니다> Thời tiết nóng</span><span>+ 이거는 너무 비쌉니다 > Cái này mắc quá</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":10,
+                    "title":"V/A + 아/어/여요",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Chia đuôi kính ngữ thân thiện cho Động từ/tính từ</li><li>- Mức độ kính ngữ thấp hơn 습니다/ㅂ니다</li><li>- Đuôi câu này chia làm 3 trường hợp</li></ul><h3>Trường hợp 1: V/A + 아요</h3></br/><span>- Động tính từ chứa nguyên âm 아 trước 다 và không có phụ âm cuối (pathcim) + 요</span><h3>Ví dụ: (예를)</h3></br><span>+ 가다 + 요 > 가요</span><br/><span>+ 자다 + 요 > 자요</span><span>+ 비싸다 + 요 > 비싸요</span><br/><span>- Động tính từ chứa nguyên âm 아/오 trước 다 chia với 아요</span><h3>Ví dụ: (예를)</h3></br><span>+ 받다 + 아요 > 받아요</span><br/><span>+ 찾다 + 아요 > 찾아요</span><span>+ 오다 + 아요 > 오아요 > 와요</span><br/><h3>Trường hợp 2: V/A + 어요</h3></br/><span>- Tất cả động tính từ không chứa nguyên âm 아/오 trước 다 chia với 어요</span><h3>Ví dụ: (예를)</h3></br><span>+ 먹다 + 어요 > 먹어요</span><br/><span>+ 읽다 + 어요 > 읽어요</span><span>+ 주다 + 어요 > 주어요 > 줘요</span><br/><h3>Trường hợp 3: V/A + 여요</h3></br/><span>- Tất cả động tính từ kết thúc bằng 하다 chia với 어요 và biến đổi thành 해요</span><h3>Ví dụ: (예를)</h3></br><span>+ 사랑하다 + 여요 > 사랑해요</span><br/><span>+ 공부하다 + 여요 > 공부해요</span><br/><h4>Chú ý:</h4><br/><span>+ 서다 > 서요</span><br/><span>+ 지내다 > 지내요</span><br/><span>+ 빼다 > 빼요</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":11,
+                    "title":"N + 에서: Ở, tại, từ",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Trợ từ 에서 đứng sau động từ chỉ nơi chốn</li><li>- N + 에서 được dùng trong 2 ngữ cảnh</li><li>- Được dịch là \"Ở\" khi câu kết thúc bằng động từ hành động (không phải động từ di chuyển) như ăn, uống, tập thể dục... để diễn tả nơi mà hành động diễn ra</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 집에서 밥을 먹어요> Tôi ăn cơm ở nhà</span><br/><span>+ 우리 언니는 도서관에서 책을 읽어요 > Chị tôi đọc sách ở thư viện</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":12,
+                    "title":"N + 에: Đến, Ở, Vào",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Trợ từ 에 đứng sau danh từ chỉ nơi chốn</li><li>- N + 에 được dùng trong 2 ngữ cảnh</li><li>- Được dịch là \"Đến\" khi câu kết thúc bằng động từ chỉ sự di chuyển như đi, đến, đặt... để diễn tả nơi mà hành động hướng đến</li><li>- Được dịch là \"ở\" khi câu kết thúc bằng động từ chỉ sự tồn tại 있다/없다 (ở, không ở/ có, không có)</li><li>- Trợ từ 에 đứng sau danh từ chỉ thời gian</li><li>- Được dịch và \"Vào\" (thời gian nào đó)</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 학교에 가요-> Tôi đi đến trường</span><br/><span>+ 집에 있어요-> Tôi ở nhà</span><br/><span>+ 월요일에 > Vào thứ 2</span><br/><span>+ 한 시에 > Vào lúc 1 giờ</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":13,
+                    "title":"안+ V/A: Không",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp phủ định động từ/tính từ trong tiếng Hàn</li><li>- Được dịch là không</li><li>- Được sử dụng đa số trong văn nói</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 오늘 학교에 안 가요 > Hôm nay tôi không đi đến trường</span><br/><span>+ 날씨가 안 추워요> Thời tiết không lạnh</span><br/><span>Chú ý: Động từ kết thúc bằng gốc 하다 , 안 đứng trước 하다</span><br/><span>+ 엄마가 요리 안 해요> Mẹ tôi không nấu ăn</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":14,
+                    "title":"V/A + 지 않다: Không",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp phủ định động từ/tính từ trong tiếng Hàn</li><li>- Được dịch là không</li><li>- Tương tự ngữ pháp 14, tuy nhiên ngữ pháp này thường được sử dụng đa số trong văn viết</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 이걸 사지 않아요 > Tôi không mua cái này</span><br/><span>+ 이 음식이 맵지 않아요 > Món ăn này không cay</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":15,
+                    "title":"N + 이/가 있다/없다: Có, không có",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>Ngữ pháp sở hữu</li><li>- Được dịch là không</li><li>- 있다/없다 đứng sau danh từ chỉ người, vật... mà chủ ngữ sở hữu</li><li>- Được dịch là \"Có (있다)\" hoặc \"không có (없다)\" gì đó</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 돈이 있어요 > tôi có tiền</span><br/><span>+ 저는 차가 없어요 > tôi không có xe</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":16,
+                    "title":"N + 에 있다/없다: Ở, không ở",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp chỉ sự tồn tại</li><li>- Được dịch là \"ở\"</li><li>- Được dịch là \"Có (있다)\" hoặc \"không có (없다)\" gì đó</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 제 집이 호치민 시에 있어요 -> Nhà tôi ở TPHCM</span><br/><span>+ 제 친구가 집에 없어요 -> Bạn tôi không có (ở) nhà</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":17,
+                    "title":"Nơi chốn + vị trí + 에 있다/없다",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp chỉ sự tồn tại</li><li>- Được dịch là \"ở\"</li><li>- Được dịch là \"Có (있다)\" hoặc \"không có (없다)\" gì đó</li><li>- Các danh từ vị trí : 앞: Trước, 뒤: Sau, 위: Trên, 아래/밑: Dưới, 오른쪽: Bên phải, 왼쪽 : bên trái, 안: trong, 밖: ngoài, 가운데: giữa, 옆: bên cạnh, 근처  : gần</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 책이 책상 위에 있어요> Quyển sách ở trên bàn</span><br/><span>+ 우리 집이 병원 뒤에 있어요 > Nhà tôi ở sau công viên</span><br/><span>+ 린 씨가 화 씨 오랜쪽에 있어요 > Linh ở bên phải Hoa</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":18,
+                    "title":"V/A + 고: Và",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp nối giữa 2 động từ hoặc tính từ với nhau diễn tả vế sau bổ sung cho vế trước</li><li>- Được dịch là \"Và\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 책을 읽고 자요 > Tôi đọc sách và ngủ</span><br/><span>+ 음식이 맛있고 조금 매워요 > Món ăn ngày ngon và hơi cay</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":19,
+                    "title":"V/A + 았/었/였다: Đã",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp thì quá khứ</li><li>- Được dịch là \"đã\"</li><li>- Chia với động từ/tính từ</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 학교에 갔어요> Tôi đã đi đến trường</span><br/><span>+ 책을 읽었어요> Tôi đã đọc sách</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":20,
+                    "title":"V + 으세요/세요: Hãy",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu cầu khiến, yêu cầu người nghe làm việc gì một cách lịch sự</li><li>- Được dịch là \"Hãy\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 열심히 공부하세요 > Hãy học hành chăm chỉ</span><br/><span>+ 책을 많이 읽으세요 > Hãy đọc nhiều sách vào</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":21,
+                    "title":"V + 읍/ㅂ시다: Nha",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi cầu rủ rê một cách lịch sự, mong muốn người đối diện cùng làm việc gì đó</li><li>- Được dịch là \"...thôi\", \"...nha\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 학교에 같이 갑시다 > Chúng ta cùng đi dến trường nha</span><br/><span>+ 한국 음식을 먹읍시다 > Cùng ăn món Hàn nhé !</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":22,
+                    "title":"N + 도: Cũng",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- 도 đứng sau danh từ</li><li>- Ngữ pháp này được dịch là \"Cũng\"</li><li>- 도 có thể thay thế cho các trợ từ 이/가, 은/는, 을/를</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저도 한국어를 공부해요-> Tôi cũng học tiếng Hàn</span><br/><span>+ 케이크도 먹고, 커피도 마셔요 > Tôi cũng ăn bánh và cũng uống cà phê nữa</span><br/><span>+ 월요에도 태권도를 배워요 > Vào thứ 2 tôi cũng học Taekwondo nữa</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":23,
+                    "title":"N + 만: Chỉ",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- 만 đứng sau danh từ</li><li>- Ngữ pháp này được dịch là \"Chỉ\"</li><li>- 만 có thể thay thế cho các trợ từ 이/가, 은/는, 을/를</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 화 씨만 베트남 사람입니다 > Chỉ có Hoa là người VN</span><br/><span>+ 오늘 빵만 먹어요 > Hôm nay tôi chỉ ăn bánh mì thôi</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":24,
+                    "title":"V/A + 지만: Nhưng, nhưng mà",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- 지만 đứng sau động từ/tính từ diễn tả sự đối lập giữa 2 vế</li><li>- Ngữ pháp này được là \"nhưng\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 한국어가 어렵지만 재미있어요-> Tiếng Hàn khó nhưng thú vị</span><br/><span>+ 오늘 수업이 있지만 내일 수업이 없어요 > Hôm nay tôi có lớp học nhưng mày mai tôi không có</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":25,
+                    "title":"V/A + 을/ㄹ까요? Nha? Nhé?",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu hỏi 을/ㄹ까요? diễn tả việc hỏi ý kiến người đối diện về việc gì đó hoặc rủ rê ai làm việc gì đó.</li><li>- Ngữ pháp này được dịch là \"Nha?\", \"nhé?\", \"không?\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 내일 영화를 볼까요? -> Ngày mai đi xem phim nha?</span><br/><span>+ 이 옷은 예쁠까요? -> (Bạn thấy) cái áo này đẹp không?</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":26,
+                    "title":"V/A + 네요: Cảm thán",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu 네요 diễn tả sự cảm thán của người nói về sự việc, sự vật nào đó</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 오늘 날씨가 덥네요-> Hôm nay thời tiết nóng ghê</span><br/><span>+ 오~ 눈이 오네요-> Ồ tuyết rơi rồi kìa</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":27,
+                    "title":"V/A + (으)시다: Động từ kính ngữ",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Kính ngữ hoá động từ, biến động từ thường thành động từ kính ngữ, thể hiện sự tôn trọng của người nói với ngôi thứ 2, ngôi thứ 3 (không dùng cho ngôi thứ 1)</li><li>- Tương tự việc chuyển đổi từ động từ Ăn > Dùng bữa, Chết > Qua đời...</li><li>- Động tính từ có phụ âm cuối chia với 으시다, động tính từ không có phụ âm chia với 시다</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 가다-> 가시다: Đi</span><br/><span>+ 읽다-> 읽으시다: Đọc</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":28,
+                    "title":"N 부터 ~ N 까지: Từ ~ đến",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả khoảng cách thời gian, từ mốc thời gian này đến mốc thời gian khác</li><li>- 부터 là \"từ\", 까지 là \"đến\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 월요일부터 금요일까지 한국어를 공부해요 > Tôi học tiếng Hàn từ thứ 2 đến thứ 6</span><br/><span>+ 어제부터 오늘까지 시험공부를 열심히 해요 > Từ hôm qua đến hôm nay tôi học thi chăm chỉ</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":29,
+                    "title":"N 에서~ N까지: Từ ~ đến",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả khoảng cách địa lý, từ nơi này đến nơi khác</li><li>- 에서 là \"từ\", 까지 là \"đến\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 집에서 학교까지 버스를 타면15분 걸려요 > Nếu đi xe bus từ nhà tôi đến trường thì mất 15p</span><br/><span>+ 학교에서 도서관까지 걸어요 > Tôi đi bộ từ trường đến thư viện</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":30,
+                    "title":"V/A + 아/어/여서: Rồi, vì...nên",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp này được dùng trong 2 ngữ cảnh</li><li>- Được dịch là \"Rồi\" khi diễn tả 2 hành động xảy ra theo thứ tự thời gian trước và sau</li><li>- Được dịch là \"Vì...nên...\" để diễn tả nguyên nhân và kết quả, vế trước là nguyên nhân của vế sau</li><li>Chú ý: Trước 아/어/여서 không chia quá khứ, và sau 아/어/여서 không chia cầu khiến, mệnh lệnh</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 밥을 먹어서 뉴스를 들어요 > Tôi ăn cơm rồi tôi nghe tin tức</span><br/><span>+ 일어나서 세수해요-> Tôi thức dậy rồi rửa mặt</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":31,
+                    "title":"V/A + 을/ㄹ 거예요: Sẽ",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn hành động trong tương lai có sự tính toán, dự tính</li><li>- Động tính từ có phụ âm cuối chia với 을 거예요, động tính từ không có phụ âm cuối chia với ㄹ 거예요</li><li>- Được dịch là \"Sẽ\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 내년에 결혼할 거예요-> Năm sau tôi sẽ kết hôn</span><br/><span>+ 이번 주말에 졸업장을 받을 거예요 > Cuối tuần này tôi sẽ nhận bằng tốt nghiệp</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":32,
+                    "title":"V/A + 겠다: Sẽ",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả thể hiện hành động trong tương lai chưa có sự tính toán lâu dài nhưng có sự quyết tâm của người nói</li><li>- Được dịch là \"Sẽ\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 열심히 공부하겠습니다! -> Tôi sẽ học chăm chỉ</span><br/><span>+ 내일 학교에 혼자 가겠다 >  Ngày mai tôi sẽ đi đến trường 1 mình</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":33,
+                    "title":"V + 지 말다: Đừng",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu thể hiện sự ngăn cản của người nói với người đối diện</li><li>- Được dịch là \"Đừng\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 지금12시예요. 텔레비전을 보지 말아요 > Bây giờlà 12h rồi. Đừng xem TV nữa</span><br/><span>+ 이런거를 먹지 마세요 > Bạn đừng ăn thứ này nữa</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":34,
+                    "title":"V + 아/어/야 되다: Phải",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả việc mà chủ ngữ phải làm</li><li>- Được dịch là \"phải\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 한국어를 열심히 공부해야 돼요 > Tôi phải học tiếng Hàn chăm chỉ</span><br/><span>+ 너 운동을 많이 해야 돼여 > Bạn phải tập TD nhiều vào</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":35,
+                    "title":"V/A + 지요? Nhỉ? Chứ?",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu nghi vấn thể hiện sự mong muốn, đồng tình, xác nhận của người nói từ người đối diện</li><li>- Được dịch là \"Nhỉ?\" , \"Đúng không?\", \"Chứ?\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 여기가 좋지요? -> Ở đây tốt thật nhỉ?</span><br/>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":36,
+                    "title":"V + 고 있다: Đang",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả một hành động đang diễn ra ở hiện tại, là thì hiện tại tiếp diễn</li><li>- Được dịch là \"Đang\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 숙제를 하고 있어요-> Tôi đang làm bài tập</span><br/><span>+ 란 씨는 음악을 듣고 있어요 > Lan đang nghe nhạc</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":37,
+                    "title":"V + 고 싶다: Muốn",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp thể hiện sự mong muốn của người nói</li><li>- Được dịch là \"Muốn\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 그 옷을 사고 싶어요-> Tôi muốn mua cái áo đó</span><br/><span>+ 이영화를 보고 싶어요 > Tôi muốn xem bộ phim này</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":38,
+                    "title":"못 + V : không được",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả khả năng không thể xảy ra của việc gì đó, dù người muốn có muốn làm</li><li>- Được dịch là \"Không được\"</li><li>- 못 đứng trước động từ, tuy nhiên, với động từ kết thúc bằng 하다, 못 đứng trước 하다</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 비가 와서 학교에 못 가요-> Trời mưa nên tôi không đi học được</span><br/><span>+ 밖에 너무 시끄러워서 집중 못 해요 > Vì bên ngoài ồn ào quá nên tôi không tập trung được</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":39,
+                    "title":"V + 지 못하다: Không được",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp này hoàn toàn tương tự 못 + V</li><li>- Ngữ pháp này thường dùng trong văn viết, còn 못 + V thường dùng trong văn nói</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 비가 와서 학교에 가지 못해요-> Trời mưa nên tôi không đi học được</span><br/><span>+ 오늘 손이 아파서 피아노를 치지 못해요 > Hôm nay tôi bị đau tay nên tôi không chơi Piano được </span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":40,
+                    "title":"V/A + 으면/면: Nếu ... thì",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả điều kiện và kết quả của một sự việc nào đó</li><li>- Được dịch là nếu...thì... </li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 돈이 많으면 집을 살 거예요-> Nếu có nhiều tiền tôi sẽ mua nhà</span><br/><span>+ 이번 학기에 일등을 하면 장학금을 받을 수 있어요 > Nếu học kỳ này tôi đạt hạng 1 thì sẽ có thể nhận học bổng đó</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":41,
+                    "title":"V + (으)려고 하다: Định",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp diễn tả dự định của người nói</li><li>- Được dịch là \"định\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 내일 병원에 가려고 해요 -> Ngày mai tôi định đi bệnh viện</span><br/><span>+ 이따가 밥을 먹으러 거요 > Lát nữa tôi định đi ăn cơm</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":42,
+                    "title":"V + 아/어/여 주다: Làm việc gì đó CHO ai đó",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Đuôi câu thể hiện việc chủ ngữ làm việc gì cho ai đó</li><li>- Được dịch là \"...cho\"</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 수업이 끝나고 전화해 줘요-> Kết thúc giờ học thì gọi cho tôi nha</span><br/><span>+ 돈을 빌려주세요 > Hãy cho tôi mượn tiền nhé</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":43,
+                    "title":"N + (으)로: Bằng, đến",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- Ngữ pháp này sử dụng trong 2 ngữ cảnh</li><li>- Danh từ có phụ âm cuối chia với 으로, danh từ không có phụ âm cuối chia với 로</li><li>- Được dịch là \"bằng\", \"bởi\" để diễn tả phương thức, phương cách làm việc gì đó</li><li>- Được dịch là \"đến\" khi đứng sau danh từ nơi chốn để diễn tả hướng của hành động đến nơi nào đó</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 인터넷으로 검색해요 > Tìm kiếm bằng Internet</span><br/><span>+ 민수 씨는 밥을 젓가락으로 먹어요 > Minsu ăn cơm bằng đũa </span><br/><span>+ 이버스가 서울 대학교로 가지요? Xe bus này đi đến trường ĐH Seoul đúng không?</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":44,
+                    "title":"N + 에게/한테/께: Đến...",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- 에게/한테/께 đứng sau danh từ chỉ người, diễn tả đối tượng mà hành động hướng đến</li><li>- Dịch là \"đến\", \"cho\"</li><li>- 에게 thường dùng trong văn viết, 한테 thường dùng trong văn nói, 께 dùng cho người có vai vế lớn (ông, bà, cha, mẹ, thầy cô...)</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 친구에게 문자를 보내요-> Tôi gửi thư cho bạn</span><br/><span>+ 언니가 부모님께 전화해요-> Chị tôi gọi dt cho ba mẹ</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }
+            ]
+         },
+         {
+             "type": 2,
+             "title" :"Trung Cấp",
+             "lesson": [
+                {
+                    "lesson":100,
+                    "title":"Cấu trúc tiếng Hàn ~네요. (nhỉ, thế, quá, đấy….)",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>Thể hiện rằng một sự việc mới nghe hoặc nhìn thấy ở hiện tại. 네 được dùng trong hội thoại với bạn&nbsp;thân hoặc người nhỏ tuổi hơn. Kết thúc đuôi cảm thán, diễn đạt sự bất ngờ, ngạc nhiên</li></ul><h3>Ví dụ: (예를)</h3></br><span>일요일인데 도서관에 학생이이 책이 생각보다 비싸네요.  Cuốn sách này mắc hơn tôi nghĩ đấy.</span>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":101,
+                    "title":"Cấu trúc ~던데요. (tôi nhớ là…., theo tôi được biết là , tôi thấy rằng…)",
+                    "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li><p>Để giải thích cho một sự việc mà một người đã thấy hoặc đã trải qua trong quá khứ. 던데 được sử dụng&nbsp;trong đàm thoại với bạn bè thân hoặc người nhỏ tuổi hơn mình.</p></li></ul><h3>Ví dụ: (예를)</h3></br><span>가: 학교 앞에 있는 한국 식당에 가 봤어? <br/>A: Cậu đã đến cái </span><br/><span>나: 응, 가 봤어. 음식도 맜있고 값도 싸던데.</span></br><span>B: Ừ, tớ từng đến rồi. Tớ thấy ở đó đồ ăn vừa ngon giá lại rẻ nữa.</span><br/><span>가: 에제 본 영화 어땠어요?<br/>A: Thấy bộ phim hôm qua coi thế nào?</span>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":102,
+                    "title":"Cấu trúc tiếng Hàn ~는/은/ㄴ 편이다 ( khá, thuộc dạng….)",
+                    "content":"<p>Được dùng để diễn đạt một xu hướng, dự đoán hơn là tạo ra một sự quả quyết và làm rõ một sự thật</p><br/><p>A: Bạn có thường xuyên xem phim không?</p><br/><p>나: 네, 일주일에 한 번쯤 보니까 자주 보는 편이에요.</p><br/><p>B: Tôi xem một tuần một lần nên có thể coi là khá thường xuyên</p><br/><p>가: 그 시장은 다른 시장보다 물건 값이 싼 편이에요.</p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":103,
+                    "title":"Cấu trúc ~고요. (nữa)",
+                    "content":"<span>Được sử dụng để bổ sung thông tin vào cuộc hội thoại của đối phương hoặc vào chính lời nói của mình.</span><br/><p>Ví dụ:</p><br/><p>가: 지금 살고 있는 하숙집은 어때요? 마음에 들어요?</p><br/><p>A: Nhà trọ hiện đang sống thế nào? Có vừa lòng không?</p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":104,
+                    "title":"Cấu trúc ~는데도/ 은데오/ㄴ데도 ( dù…nhưng…)",
+                    "content":"<span>Được sử dụng khi kết quả không phải điều mà mình mong chờ. Động từ dùng ~는데도, tính từ có patchim dùng ~~은데도, không patchim dùng ~ㄴ데도.</span><br/><p>매일 연습했는데도 시험이 아직 떨어졌어요.</p><br/><p>Mặc dù luyện tập mỗi ngày nhưng tôi vẫn rớt.</p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":105,
+                    "title":"Cấu trúc tiếng Hàn ~기만 하다/ 만 하다 (chỉ)",
+                    "content":"Cấu trúc diễn tả ai đó chỉ lặp đi lặp lại duy nhất một hành động. Đi sau động từ. Trong trường hợp<br/><span>N+을/ㄹ 하다 chỉ sử dụng만 하다</span><br/><p>한국 음식 중에서 불고기를 먹을 수 있기만 해요. &nbsp;Trong số mấy món Hàn tôi chỉ ăn được bulgogi</p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":106,
+                    "title":"Cấu trúc tiếng Hàn~자마자 (ngay khi)",
+                    "content":"<p>Diễn tả khi có một hành động xảy ra ngay sau một hành động khác.</p><br/><p>Ví dụ:</p></br><p>수업이 끝나자마자 집에 돌아갔어요.</p><br/><p>Tôi về nhà ngay khi tan học.</p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":107,
+                    "title":"Cấu trúc ~ 는대요/ㄴ대요 /대요 /(이)래요 ; 냬요; 으래요/래요; 재요.",
+                    "content":"<p>Hình thức rút gọn của cấu gián tiếp.</p><br/><p>~ 는대요/ㄴ대요 /대요 /(이)래요: hình thức rút gọn của câu gián tiếp tường thuật</p><br/><p>냬요: hình thức rút gọn của câu hỏi</p><br/><p>으래요/래요: hình thức rút gọn của yêu cầu</p><br/><p>재요: hình thức gián tiếp của rủ rê</p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":108,
+                    "title":"~으려던/ 려던 참이다. (cũng đang định…)",
+                    "content":"<p>Sử dụng khi thấy một ai đó có hành động giống với suy nghĩ của mình. (đúng lúc hai người định làm gì)</p><br/><p>Động từ có patchim dùng ~으려던 참이다, không có patchim dùng ~려던 참이다</p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                }
+             ]
+         },
+         {
+            "type": 3,
+            "title" :"Cao Cấp",
+            "lesson": [
+
+            ]
+        }
+    ],
+    "version": 1,
+    "author" :"Hunganh" 
+}
