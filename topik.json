@@ -1,0 +1,34 @@
+{
+    "topik":[
+        {
+            "type": 1,
+            "title": "Topik I",
+            "status": 1
+        },
+        {
+            "type": 2,
+            "title": "Topik II",
+            "status": 1
+        },
+        {
+            "type": 3,
+            "title": "Topik III",
+            "status": 0
+        },
+        {
+            "type": 4,
+            "title": "Topik IV",
+            "status": 0
+        },
+        {
+            "type": 5,
+            "title": "Topik V",
+            "status": 0
+        },
+        {
+            "type": 6,
+            "title": "Topik VI",
+            "status": 0
+        }
+    ]
+}
