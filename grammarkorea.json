@@ -44,6 +44,14 @@
                     "type": 1,
                     "love" : 0,
                     "ads": 0
+                }
+                , {
+                    "lesson":1001,
+                    "title":"Quang cao",
+                    "content":"Quang cao",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 1
                 },
                 {
                     "lesson":5,
@@ -108,6 +116,14 @@
                     "type": 1,
                     "love" : 0,
                     "ads": 0
+                }
+                , {
+                    "lesson":1002,
+                    "title":"Quang cao",
+                    "content":"Quang cao",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 1
                 },
                 {
                     "lesson":13,
@@ -228,7 +244,15 @@
                     "type": 1,
                     "love" : 0,
                     "ads": 0
+                }, {
+                    "lesson":1003,
+                    "title":"Quang cao",
+                    "content":"Quang cao",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 1
                 },
+                
                 {
                     "lesson":28,
                     "title":"N 부터 ~ N 까지: Từ ~ đến",
@@ -348,6 +372,13 @@
                     "type": 1,
                     "love" : 0,
                     "ads": 0
+                }, {
+                    "lesson":1004,
+                    "title":"Quang cao",
+                    "content":"Quang cao",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 1
                 },
                 {
                     "lesson":43,
@@ -361,6 +392,188 @@
                     "lesson":44,
                     "title":"N + 에게/한테/께: Đến...",
                     "content":"<h3>Nội Dung (함유량)</h3></br/><ul><li>- 에게/한테/께 đứng sau danh từ chỉ người, diễn tả đối tượng mà hành động hướng đến</li><li>- Dịch là \"đến\", \"cho\"</li><li>- 에게 thường dùng trong văn viết, 한테 thường dùng trong văn nói, 께 dùng cho người có vai vế lớn (ông, bà, cha, mẹ, thầy cô...)</li></ul><h3>Ví dụ: (예를)</h3></br><span>+ 저는 친구에게 문자를 보내요-> Tôi gửi thư cho bạn</span><br/><span>+ 언니가 부모님께 전화해요-> Chị tôi gọi dt cho ba mẹ</span>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":45,
+                    "title":"V + 아/어/여 보다: Đã từng/Hãy thử",
+                    "content":"<p><b>V + 아/어/여 봤다</b></p><div><div>- Đuôi câu khẳng định</div><div>- Diễn tả trải nghệm, kinh nghiệm của người nói về 1 việc gì đó, hoặc hỏi người khác về kinh nghiệm của họ.</div><div>- Được dịch là \"Đã từng\", \"Từng\"</div><div><b><u>Ví dụ:</u></b></div><div>+ 저는 한국에 가 봤어요 -&gt; Tôi đã từng đi HQ</div><div>+ 한국 음식을 먹어 봤어요? -&gt; Bạn đã từng ăn món Hàn chưa?</div><div>+ 이 수영장에서 수영해 봤어요 -&gt; Tôi đã từng bơi ở hồ này rồi</div><div>&nbsp;<b>V + 아/어/여 보세요</b></div><div>- Đuôi câu mệnh lệnh</div><div>- Diễn tả sự khuyên nhủ của người nói đối với người nghe&nbsp;</div><div>- Được dịch là \"Hãy thử\", \"Thử...đi\"</div><div><b><u>Ví dụ:</u></b></div><div>+ 머리가 너무 아프면 병원에 가 보세요: Nếu đau đầu quá bạn thử đi bệnh viện đi</div><div>+ 이 옷을 한번 입어 보세요: Bạn hãy thử mặc chiếc áo này 1 lần xem.</div></div>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":46,
+                    "title":"V + 는 + N : Định ngữ -> Động từ bổ sung ý nghĩa cho danh từ",
+                    "content":"<p>- Ngữ pháp định ngữ&nbsp;</p><p>- Động từ đứng trước danh từ và bổ sung ý nghĩa cho danh từ</p><p><b><u>Ví dụ:</u></b></p><p></p><ul style=\"text-align: left;\"><li>가는 여자가 제 친구예요 -&gt; Cô gái đang đi đó là bạn tôi</li><li>책을 읽는 사람이 진짜 잘 생겼어요 -&gt; Người mà đang đọc sách đó rất đẹp trai</li></ul><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":47,
+                    "title":"A + 은/ㄴ + N : Định ngữ -> Tính từ bổ sung ý nghĩa cho danh từ",
+                    "content":"<p>- Ngữ pháp định ngữ&nbsp;</p><p>- Tính từ đứng trước danh từ và bổ sung ý nghĩa cho danh từ&nbsp;</p><p>- Tính từ có phụ âm cuối + 은 N, tính từ không có phụ âm cuối + ㄴ N</p><p><b><u>Ví dụ:</u></b></p><p></p><ul style=\"text-align: left;\"><li>예쁜 여자가 많아요 -&gt; Có nhiều cô gái xinh đẹp</li><li>저 사람은 이상한 남자예요 -&gt; Người đó là 1 chàng trai kì lạ</li></ul><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":48,
+                    "title":"V + 을/ㄹ 수 있다: Có thể",
+                    "content":"<p>- Đuôi câu khẳng định đứng sau động từ</p><p>- Diễn tả khả năng của người nào đó</p><p>- Được dịch là \"Có thể\"</p><p>- Động từ có phụ âm cuối + 을 수 있다, động từ không có phụ âm cuối + ㄹ 수 있다</p><p><b><u>Ví dụ:</u></b></p><p></p><ul style=\"text-align: left;\"><li>저는 요리를 할 수 있어요 -&gt; Tôi có thể nấu ăn</li><li>민수 씨는 프랑스말를 할 수 있어요 -&gt; Bạn Minsu có thể nói tiếng Pháp</li></ul><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":49,
+                    "title":"V+ 을/ㄹ 수 없다 : Không thể",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu khẳng định đứng sau động từ</p><p>- Diễn tả khả năng của người nào đó</p><p>- Được dịch là \"Không thể\"</p><p>- Động từ có phụ âm cuối + 을 수 없다, động từ không có phụ âm cuối + ㄹ 수 없다</p><h2 style=\"text-align: left;\"><b><u>Ví dụ:</u></b></h2><p></p><ul style=\"text-align: left;\"><li>저는 수영할 수 없어요 -&gt; Tôi không thể bơi</li></ul><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":50,
+                    "title":"V + (으)려고 + V : Để",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Ngữ pháp nối (으)려고 đứng giữa 2 mệnh đề</p><p>- Diễn tả mục đích của hành động, mục đích đứng trước (으)려고, hành động đứng sau (으)려고</p><p>- Được dịch là \"Để\"</p><p>- Động từ có phụ âm cuối + 으려고, động từ không có phụ âm cuối + 려고</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>친구에게 선물하려고 케이크를 만들어요 -&gt; Tôi làm bánh để tặng bạn tôi</li><li>- 고기를 사러 시장에 가요 -&gt; Tôi đi chợ để mua thịt</li></ul><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":51,
+                    "title":"V + 을/ㄹ 게요 : Sẽ, liền",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu khẳng định kính ngữ</p><p>- Diễn tả một hành động trong tương lai gần, hoặc lời hứa hẹn của người nói</p><p>- Chỉ đi với ngôi thứ nhất (내가, 제가)</p><p>- Được dịch là \"Sẽ\", \"Liền\"</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>&nbsp;지금 잘게요 -&gt; Bây giờ tôi ngủ đây</li><li>&nbsp;맛있는 걸 사줄게요 -&gt; Để tôi mua đồ ăn ngon cho</li></ul><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":52,
+                    "title":" V + (으)면서 : Vừa ... Vừa",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Ngữ pháp đứng giữa 2 mệnh đề</p><p>- Diễn tả 2 hành động diễn ra song song cùng thời điểm</p><p>- Dịch là \"Vừa...vừa...\"</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>숙제를 하면서 음악을 들어요 -&gt; Vừa làm bài tập vừa nghe nhạc</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":53,
+                    "title":"N + (이)라고 하다 : Được gọi là, được cho là, nói là",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu khẳng định</p><p>- Ngữ pháp gián tiếp tường thuật lại lời nói của người khác</p><p>- Được dịch là \"Được cho là\", \"Được gọi là\", \"Nói là\"...</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>저는 김태연이라고 합니다 -&gt; Tôi (được gọi) là Kim Tae Yeon</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":54,
+                    "title":"V/A + 거나 : Hoặc, hay",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Liên từ nối giữa 2 động từ</p><p>- Diễn tả sự lựa chọn giữa 2 hành động</p><p>- Được dịch là \"Hoặc\", \"hay\"</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>내일 놀이공원에 가거나 영화를 볼까요? -&gt; Mai mình đi công viên giải trí hay đi xem phim ha?</li><li>수영하거나 농구하자 &gt; Đi bơi hay chơi bóng rổ đi</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":55,
+                    "title":"N + (이)나 Hoặc, hay",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Liên từ nối giữa 2 danh từ</p><p>- Diễn tả sự lựa chọn giữa 2 chủ thể</p><p>- Được dịch là \"Hoặc\", \"hay\"</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>&nbsp;밥이나 빵을 먹어요? -&gt; Ăn cơm hay ăn bánh mì?</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":56,
+                    "title":"V + 을/ㄹ 줄 알다 : Biết làm việc gì đó",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu kết thúc</p><p>- Diễn tả việc chủ thể biết làm 1 việc gì đó</p><p>- Được dịch là \"Biết\"</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>수영할 줄 알았어요 -&gt; Tôi đã biết bơi rồi</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":57,
+                    "title":"V + 는 것: Biến động từ thành danh từ",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Ngữ pháp đứng sau động từ, biến động từ thành danh từ</p><p>- Được dịch là \"Sự...\", \"Việc...\"</p><p>- Tương tự thêm \"tion\", \"ing\", \"ance\" trong tiếng Anh</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>저는 축구를 보는 것을 좋아해요 -&gt; Tôi thích xem đá banh</li><li>케이크를 만드는 것이 안 쉬어요 -&gt; Làm bánh kem không dễ</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":58,
+                    "title":"N + 동안 : Trong vòng",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- 동안 đứng sau danh từ</p><p>- Diễn tả khoảng thời gian nào đó</p><p>- Được dịch là<b><i> trong vòng</i></b>, trong</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>3개월동안 한국어를 공부해요 -&gt; Tôi học tiếng Hàn trong vòng 3 tháng</li><li>삼년동안 계속 기숙사에 살았어요 -&gt; Tôi đã sống liên tục ở KTX trong 3 năm trời&nbsp;</li></ul><p></p><p><b>* V + 는 동안 : Trong lúc</b></p><p></p><ul style=\"text-align: left;\"><li>-공부하는 동안 어려운 것이 많아요 -&gt; Trong lúc học có nhiều cái khó</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":1005,
+                    "title":"Quang cao",
+                    "content":"Quang cao",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 1
+                }, {
+                    "lesson":59,
+                    "title":"V + 는데 : Mệnh đề trước làm tiền đề cho mệnh đề sau",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Từ nối 는데 đứng sau động từ để nối 2 mệnh đề với nhau</p><p>- Mệnh đề trước làm tiền đề cho mệnh đề sau xảy ra, có thể là sự đối lập, nguyên nhân kết quả...</p><p>- Dịch là <b>Nhưng</b>,<b><i> mà, vì.</i></b>.. tuỳ ngữ cảnh</p><p>- Tương tự&nbsp;&nbsp;<b>That </b>trong tiếng Anh</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>한국어를 공부하는데 어려워요 - &gt; Tôi học tiếng Hàn mà nó khó</li><li>&nbsp;비가 오는데 왜 나가요? -&gt; Trời mưa mà sao bạn đi ra ngoài?</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":60,
+                    "title":"A + 은/ㄴ데: Tương tự V + 는데",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Từ nối 은/ㄴ데 đứng sau tính từ để nối 2 mệnh đề với nhau</p><p>- Mệnh đề trước làm tiền đề cho mệnh đề sau xảy ra, có thể là sự đối lập, nguyên nhân kết quả...</p><p>- Dịch là <b><i>Nhưng, mà, vì</i></b>... tuỳ ngữ cảnh</p><p>- Tương tự That trong tiếng Anh</p><p>- Tính từ có phụ âm cuối + 은데, tính từ không có phụ âm cuối + ㄴ데</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>날씨가 추운데 코트를 입으세요-&gt; Trời lạnh đó mặc áo khoác vào</li><li>김치는 매운데 김밥은 안 매워요 -&gt; Kimchi thì cay nhưng Kimbap thì không cay</li></ul><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":61,
+                    "title":"N + 인데: Tương tự V + 는데",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Từ nối 인데 đứng sau danh từ từ để nối 2 mệnh đề với nhau</p><p>- Mệnh đề trước làm tiền đề cho mệnh đề sau xảy ra, có thể là sự đối lập, nguyên nhân kết quả...</p><p>- Dịch là <i><b>Nhưng, mà, vì.</b></i>.. tuỳ ngữ cảnh</p><p>- Tương tự <b><i>That </i></b>trong tiếng Anh</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>저는 베트남 사람인데 한국어를 공부해요-&gt; Tôi là người VN và tôi học tiếng Hàn</li></ul><p></p><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":62,
+                    "title":"A + 은/ㄴ 것 같다: Chắc là, có lẽ",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu khẳng định</p><p>- Diễn tả sự dự đoán của người nói về 1 sự vật sự việc nào đó</p><p>- Được dịch là <b><i>Chắc là, Có lẽ</i></b></p><p>Ví dụ:</p><p></p><ul style=\"text-align: left;\"><li>그 옷이 비싼 것 같아요-&gt; Chắc là cái áo ấy mắc tiền</li></ul>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":63,
+                    "title":"N + 보다: So với",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- 보다 đứng sau danh từ bị so sánh</p><p>- Diễn tả việc chủ thể bị so sánh với</p><p>- Được dịch là <b><u>So với, hơn</u></b></p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>언니는 동생보다 더 예뻐요-&gt; Chị thì xinh hơn em</li><li>한국어가 영어보다 어려워요 -&gt; Tiếng anh khó hơn tiếng hàn</li></ul><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":64,
+                    "title":"A/V + 았/었/였으면 좋겠다: Nếu ... thì tốt quá",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu khẳng định</p><p>- Diễn tả mong muốn, nguyện vọng giả định của người nói.</p><p>- Tương tự If loại 2 trong tiếng Anh</p><p>- Dịch là Nếu...thì tốt quá, Ước gì</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>돈이 많았으면 좋겠어요-&gt; Nếu tôi nhiều tiền thì tốt quá (Ước gì có nhiều tiền)</li><li>이번 저 회사에 취직할 수 있었으면 좋겠어요 -&gt; Ước gì lần này tôi có thể xin được vào công ty đó.</li></ul>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":65,
+                    "title":"A/V + (으)니까: Vì...nên...",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Ngữ pháp liên kết nguyên nhân và kết quả, mệnh đề trước là nguyên nhân, mệnh đề sau là kết quả</p><p>- Mệnh đề sau không dùng dưới dạng rủ rê, mệnh lệnh, nhờ vả, rủ rê</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>지금 할 일이 없으니까 심심해요-&gt; Bây giờ tôi không có gì làm nên thấy chán quá</li><li>저 식당은 문 닫았으니까 우리는 다른 식당에 갔어요 -&gt; Nhà hàng đó đóng cửa nên chúng tôi đã đi nhà hàng khác</li></ul><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":66,
+                    "title":"V + 고나서: Rồi",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Ngữ pháp liên kết giữa 2 hành động liên tiếp</p><p>- Phía trước 고나서 là hành động diễn ra trước, sau 고나서 là hành động diễn ra sau</p><p>- Được dịch là Rồi</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>생각해 보고 나서 연락해 줄게요-&gt; Tôi sẽ suy nghĩ kĩ rồi liên lạc lại cho</li></ul>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":67,
+                    "title":"N + (이)라서: Vì là....nên",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Ngữ pháp nguyên nhân tường thuật</p><p>- Đứng sau danh từ</p><p>- Là cách viết tắt của (이)라고 해서</p><p>- Được dịch là Vì là...nên..., Bởi vì là...</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>퇴근 시간이라서 길이 복잡해요-&gt; Vì là giờ tan tầm nên đường phố phức tạp</li></ul><p></p>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":68,
+                    "title":"V + (으)면 되다: Nếu ... là được",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu khẳng định</p><p>- Diễn tả điều kiện xảy ra</p><p>- Được dịch là&nbsp; Nếu...là được, Cứ...là được</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>여기에서 오른쪽으로 가면 돼요-&gt; Từ đây cứ quẹo phải là được</li></ul>",
+                    "type": 1,
+                    "love" : 0,
+                    "ads": 0
+                }, {
+                    "lesson":69,
+                    "title":"V + (으)면 안 되다: Nếu ... thì không được (khuyên nhủ)",
+                    "content":"<h2 style=\"text-align: left;\">Nội dung</h2><p>- Đuôi câu khẳng định</p><p>- Diễn tả điều kiện xảy ra</p><p>- Được dịch là Nếu...là không được, ...là không được được</p><h3 style=\"text-align: left;\"><u>Ví dụ:</u></h3><p></p><ul style=\"text-align: left;\"><li>매일 늦게 자면 안 돼요-&gt; Nếu ngày nào cũng ngủ trễ là không được</li></ul>",
                     "type": 1,
                     "love" : 0,
                     "ads": 0
@@ -434,6 +647,318 @@
                     "title":"~으려던/ 려던 참이다. (cũng đang định…)",
                     "content":"<p>Sử dụng khi thấy một ai đó có hành động giống với suy nghĩ của mình. (đúng lúc hai người định làm gì)</p><br/><p>Động từ có patchim dùng ~으려던 참이다, không có patchim dùng ~려던 참이다</p>",
                     "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":109,
+                    "title":" V + 는다고 해도 : dù",
+                    "content":"<div style=\"text-align: left;\"><h2 style=\"text-align: left;\"><span style=\"font-weight: normal;\">VD:</span></h2><span style=\"font-weight: normal;\">- 아무리 비싸다고 해도 필요한 책이라면 사야지.<br /></span><span style=\"font-weight: normal;\">Mặc dù đắt như thế nào đi chăng nữa nhưng nếu là quyển sách cần thiết thì phải mua chứ.</span></div><p></p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":110,
+                    "title":"A/V + 더라도 : dù (Diễn tả dù giả định như câu trước nhưng câu sau vẫn tương phản với giả định của câu trước )",
+                    "content":"<div style=\"text-align: left;\"><h2 style=\"text-align: left;\">Ví du:</h2><div style=\"text-align: left;\">내일은 무슨 일이 었더라도 지각하면 안돼.</div><div>Dù ngày mai có việc gì đi nữa cũng không được đến trễ.</div><div>- 미국에 가더라도 자주 전화해.</div></div><p></p>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":111,
+                    "title":"A/V + 아/어 봤자: mà xem, đi nữa... (đại loại là như thế)",
+                    "content":"<h2 style=\"text-align: left;\"><b>Nội Dung</b></h2><div><b>a. V + 아/어 봤자: </b>Việc của vế thứ nhất có diễn ra thì vế sau vẫn vậy không có nghĩa lí gì.</div><div>- Sau nó hay đi với câu dạng ㄹ/을 것이다 (dự đoán) hoặc câu thường, ko đi kèm được câu mệnh lệnh và thỉnh cầu.</div><div>- 지금 출발해 봤자 약속시간에 도착할 수 없어.</div><div>Bây giờ xuất phát đi nữa thì cũng không tới đúng hẹn được đâu.</div><div>- 깨끗하게 청소해 봤자 금방 더러워져요.</div><div>Dọn sạch sẽ mà xem, rồi lại bẩn ngay thôi.</div><div><b>b. A + 아/어 봤자:</b> Việc của vế trước không có gì đáng nói hay đáng ngạc nhiên. Với tính từ thì nó hay có câu hỏi ở dưới (hỏi lửng thôi chứ ko phải để trả lời). Sau nó không đi kèm với câu mệnh lệnh hoặc thỉnh dụ.</div><div>- 한국의 겨울 날씨가 추워 봤자 북극보다 춥겠어요?</div><div>Thời tiết của HQ có lạnh đi nữa thì có bằng bắc cực không?</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":112,
+                    "title":" A/V + 아/어/여도, DT + 이어도/여도 : cho dù…, dù…cũng…, dù...nhưng...",
+                    "content":"<h2 style=\"text-align: left;\"><b>Nội Dung</b></h2><div><div><b>a. A/V + 아/어/여도:</b></div><div>아도 : dùng khi động từ / tính từ kết thúc có nguyên âm ㅏ, ㅗ</div><div>- 바빠도 한국말을 공부해요.</div><div>Dù bận tôi vẫn muốn học tiếng Hàn.</div><div>어도 : dùng khi động từ / tính từ kết thúc bằng các nguyên âm khác.</div><div>- 밥을 먹어도 배부르지 않아요.</div><div>Ăn cơm mà cũng chẳng no.</div><div>여도 : dùng khi đuôi động từ kết thúc là 하다 =&gt; 해도.</div><div>- 공부를 많이 해도 시험을 잘 못 봤어요.</div><div>Dù học rất nhiều nhưng dường như cũng không làm bài tốt.</div><div><b>b. N + 이어도/여도:</b></div><div>VD: 일요일이어도 일을 합니다.</div><div>Dù là chủ nhật nhưng vẫn làm việc.</div><div><b><u>*** Lưu ý:</u></b></div><div>Khi câu hỏi nhằm hỏi một sự cho phép nào đó, nếu câu trả lời phủ định thì có nghĩa điều đó bị cấm, không được phép, câu trả lời thường là cấu trúc “–(으)면 안된다”.</div><div>A: 여기 앉아도 됩니까?</div><div>Tôi ngồi đây được không?</div><div>B: 아니오, 앉으면 안됩니다.</div><div>Không, bạn không được ngồi đây.</div></div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":113,
+                    "title":"A/V+ 으나 마나: Chỉ một việc làm vô ích , vô dụng làm cũng như không.",
+                    "content":"<div style=\"text-align: left;\">VD: 너무 늦어서 지금은 가나 마나예요.<br />Muộn quá rồi giờ đi cũng như không thôi.</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":114,
+                    "title":" V + 고도: (cũng)",
+                    "content":"<div style=\"text-align: left;\"><div>Diễn tả ý tương phản hoặc một đặc tính khác so với sự việc, cảm giác mà đã đề cập ở vế trước.</div><div>영희는 슬픈 영화를 보고도 울지 않는다.</div><div>Yeong Hui xem phim buồn mà cũng không khóc.</div><div>그 사람과 헤어지고도 눈물을 안 흘렸어요.</div></div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":114,
+                    "title":"V + 기는 하지만 : ừ thì cũng…nhưng mà",
+                    "content":"<div style=\"text-align: left;\"><div>- 커피를 마시기는하지만 좋아하지 않아요.</div><div>Uống café cũng được nhưng tôi không thích cho lắm.</div><div>- 바람이 불기는 하지만 춥지는 않아요.</div><div>Cũng có gió đó nhưng không lạnh</div></div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":115,
+                    "title":"V + 는 데도 : mặc dù",
+                    "content":"<div style=\"text-align: left;\"><div>- 생활비가 넉넉한데도 항상 부족하다고 해요.</div><div>Mặc dù sinh hoạt phí cũng dư dả nhưng mà tôi cứ thiểu tiền hoài</div></div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":116,
+                    "title":"Thì hiện tại : ĐANG",
+                    "content":"<div style=\"text-align: left;\"><div><b>1.1 Đuôi câu trang trọng</b></div><div>Công thức: A/V ㅂ/습니다</div><div>- Gốc từ từ không có patchim + ㅂ니다</div><div>- Gốc từ có patchim +습니다</div><div><b><u>Ví dụ :&nbsp;</u></b></div><div>가다 -&gt; 갑니다 : đi</div><div>&nbsp;먹다 -&gt; 먹습니다 : ăn</div><div><b>1.2 Đuôi câu thân mật</b></div><div>1.2.1 Khi gốc động từ có nguyên âm là ㅏ,ㅗ thì + 아요</div><div><b><u>Ví dụ :</u></b></div><div>&nbsp;가다 -&gt;&nbsp; 가요 : đi</div><div>오다 -&gt;&nbsp; &nbsp;와요 : đến</div><div>만나다 -&gt;&nbsp; 만나요 : gặp gỡ</div><div>&nbsp;</div><div>1.2.2 Khi gốc động từ có nguyên âm là các âm còn lại thì + 어요</div><div><b><u>Ví dụ :</u></b></div><div>먹다 -&gt; 먹어요 : ăn</div><div>1.2.3 Khi&nbsp; gốc động từ ở dạng 하다 thì =&gt; 해요</div><div><b><u>Ví dụ :</u></b></div><div>사랑하다 -&gt; 사랑해요 : yêu</div></div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":117,
+                    "title":"Thì quá khứ: ĐÃ",
+                    "content":"<div style=\"text-align: left;\"><div><b>2.1. Khi gốc động từ có nguyên âm là ㅏ,ㅗ thì +&nbsp; 았다</b></div><div>Ví dụ :&nbsp;&nbsp;</div><div>가다 + 았어요 -&gt; 갔어요 hoặc 갔습니다 : đã đi</div><div>오다 + 았어요 -&gt; 왔어요 hoặc 왔습니다 : đã đến</div><div><b>2.2.&nbsp; Khi gốc động từ có nguyên âm là các âm còn lại thì + 었다</b></div><div>Ví dụ :&nbsp;</div><div>먹다 + 었어요 -&gt; 먹었어요 hoặc 먹었습니다 : đã ăn</div><div>읽다 + 었어요 -&gt; 읽었어요 hoặc 읽었습니다 : đã đọc</div><div><b>2.3.&nbsp; Khi&nbsp; gốc động từ ở dạng 하다 thì =&gt; 했다 . .</b></div><div>Ví dụ :&nbsp;</div><div>공부하다 -&gt; 공부했어요 hoặc 공부했습니다 : đã học</div><div>&nbsp;</div><div>사랑하다 -&gt; 사랑했어요 hoặc 사랑했습니다 : đã yêu</div></div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":118,
+                    "title":"Thì tương lai : SẼ",
+                    "content":"<div style=\"text-align: left;\"><div><b>Cách 1: Động từ + 겠다&nbsp;</b></div><div>Ví dụ:</div><div>가다 -&gt;가겠어요&nbsp; : sẽ đi</div><div>먹다 -&gt;먹겠어요: sẽ ăn</div><div>오다 -&gt;오겠어요 : sẽ đến</div><div><b>Cách 2 : Động từ +(으)ㄹ 것</b></div><div>- Động từ không có patchim hoặc có patchimㄹthì +ㄹ 것</div><div>- Động từ có patchim khácㄹ thì&nbsp; +을것</div><div>Ví dụ:</div><div>&nbsp;</div><div>가다 -&gt; 갈 거예요 : sẽ đi</div><div>먹다 -&gt; 먹을 거예요 : sẽ ăn</div><div>오다 -&gt;올 거예요 : sẽ đến</div></div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":119,
+                    "title":" V + 을/ㄹ 만하다 : Có thể dịch là “ có giá trị , đáng để ”",
+                    "content":"<div>Hiểu một cách đơn giản là đáng để làm một việc gì đó.</div><div>- 그친구를 믿을 만해요.</div><div>Người bạn đó đáng để tin cậy</div><div><br /></div><div>- 불고기를 먹을 만해요 . 한번 먹어 보세요.</div><div>Món thịt bò xào đáng để thử đó . Hãy thử ăn 1 lần đi</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":120,
+                    "title":"V + 을 정도로: Mức, đến mức, cỡ",
+                    "content":"<div>알아듣기 어려울 정도로 말이 빨라요. Nói nhanh đến mức nghe khó hiểu.</div><div><br /></div><div>가 :다리는 다졌나고 들었는데 , 어때요? Nghe nói chân bị thương , thế nào rồi?</div><div>나 : 걷기 힘들 정도로 아파요. Đau đến mức việc đi lại cũng khó.</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":121,
+                    "title":"V + 다 시피 하다",
+                    "content":"<div>Được sử dụng trong trường hợp một việc gì đó mà thực tế không phải như vậy mà gần như là giống như thế. Có thể hiểu là : giống như là , coi như là , hầu như là ...</div><div>- 다이어트 때문에 매일 굶다시피 하는 사람들이 많아요.</div><div>Vì giảm cân nên có nhiều người mỗi ngày gần như là nhịn ăn .</div><div><b>* So sánh giữa \"-다시피 하다\" và \"-다시피\"</b>:</div><div>V +&nbsp; 다 시피 하다: Gần như là, coi như là</div><div>V +&nbsp; 다 시피 + Mệnh đề : Theo như</div><div>&nbsp;-알다시피 외국어 실력은 짧은 시간에 완성되는 것이 아닙니다. Như chúng ta đều biết năng lực về ngoại ngữ không phải được hoàn thành trong 1 thời gian ngắn.</div><div>- 너도 들었다시피 시험날짜가 바꿨어. Như cậu đã nghe thì ngày thi đã thay đổi rồi đó</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":122,
+                    "title":"는/은/ㄴ 감이 있다",
+                    "content":"<div>Được dùng trong trường hợp khi nảy sinh suy nghĩa hoặc cảm nhận nào đó trước 1 sự việc . Có thể hiểu là : nghĩ rằng là ...., cảm nhận rằng..., thấy rằng…</div><div>V + 는 감이 있다</div><div>A + 은/ㄴ 감이 있다</div><div><br /></div><div>가 : 오늘 산 치마인데 어때요 ? Chiếc váy mà tôi mua hôm nay thế nào ?</div><div>나 : 예쁘기는 한데 좀 짧은 감이 있네요. Đẹp thì đẹp nhưng tôi thấy nó hơi ngắn.</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":123,
+                    "title":"V + 을 지경이다",
+                    "content":"<div>Được sử dụng nhằm diễn tả tình trạng giống với một tình trạng nào đó. Có thể hiểu là : đến mức, tới mức muốn ...</div><div>- 너무 많이 걸있더니 쓰러질 지경이에요.</div><div>Đi bộ tới mức mà gục (ngã) luôn.</div><div>- 그 사람이 보고 싶어서 미칠지경이다</div><div>Nhớ người đó đến mức phát điên</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":124,
+                    "title":"A + 은/ㄴ가 보다 : có thể dịch là : “ hình như có , có vẻ”",
+                    "content":"<div>V + 나 보다</div><div>- 몸이 좀아픈가 봐요.</div><div>Có vẻ như cô ấy không được khỏe.</div><div>- 시험 점수가 안 좋은 걸 보니까 공부를 안 했나 봐요.</div><div>Điểm thi không tốt nên có vẻ như bạn không học bài nhỉ</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":125,
+                    "title":"V + 는 것 같다",
+                    "content":"<div>Dùng ở thì hiện tại , có thể dịch là : hình như, có lẽ, có vẻ ( thể hiện sự phỏng đoán , hoặc không chắc chắn)</div><div>가 : 오늘 날씨가 어떨까? Hôm nay thời tiết thế nào?</div><div>나 : 하늘이 흐린 것을 보니 비가 올 것 같아. Nhìn trời âm u có lẽ là sẽ mưa</div><div>가: 내 남자 친구 만나 보니까 어때 ? Gặp bạn trai tôi xong bạn thấy sao?</div><div>나 : 정말 멌있는 것 같아 . Có vẻ ngầu đấy chứ</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":126,
+                    "title":"V + 을 테니(까) ",
+                    "content":"<div>Thể hiện sự dự đoán về tương lai hay ý chí của người nói. Có thể dịch là : sẽ…nên...</div><div>가 : 내일이면 합격자 발표가 있는데 정말 떨린다. Nếu là ngày mai mới có kết quả nhưng chắc tôi rớt quá</div><div>나 : 좋은 결과가 있을 테니까 걱정하지 말고 기다려 . Kết quả sẽ ổn nên đừng có lo mà chờ tiếp đi</div><div>가 : 이번에 회사에서 또 승진했다면서? 정말 축하해요. Lần này nghe nói bạn lại thăng tiến đúng không? Chúc mừng nhé</div><div>나 : 고마워 . 오늘은 제가 살 테니까 맛있는 것을 먹으로 갑시다. Cảm ơn nha, hôm nay tôi sẽ bao nên đi ăn cái gì ngon ngon đi</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":127,
+                    "title":"V + 을까 봐(서)",
+                    "content":"<div>Dùng để khi nói lo lắng về một cái gì đó . Hiểu là : Hình như, có vẻ, nhỡ đâu...</div><div>- 비가 올까봐 우산을 가져갔어요.</div><div>Lỡ trời mưa nên tôi đã mang theo dù</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":128,
+                    "title":"V + 는 모양이다",
+                    "content":"<div>Chỉ người nói nhìn sự vật và đánh giá khách quan, suy đoán về vấn đề nào đó .</div><div>Hiểu là : có vẻ, hình như..</div><div>- 아침을 많이 먹는 것을 보니까 지금까지 배가 아직 안 고픈모양이에요.</div><div>Có vẻ sáng bạn ăn nhiều quá nên tới giờ vẫn chưa thấy đói</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":129,
+                    "title":"V + 을 리(가) 없다 / 있다",
+                    "content":"<div>Có thể dịch là “ làm gì có chuyện đó, không thể có chuyện đó “ hay “ hoặc “ có , lẽ nào”</div><div>- 네 이름을 잊을 리가있니 ?</div><div>Có lẽ nào cậu quên được tên tớ sao ?</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":130,
+                    "title":"V + 는 듯하다: ",
+                    "content":"<div>Thể hiện sự phán đoán, dự đoán của người nói. “Có lẽ, chắc là”</div><div>가 : 내일 모임에 친구들이 몇 명쯤 올까? Ngày mai khoảng mấy bạn đến buổi họp nhỉ?</div><div>나 : 우리 반 친구들이 모두 올 듯해. Chắc là cả lớp mình sẽ đến đó</div>",
+                    "type": 2,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":200,
+                    "title":"기만 하면 : điều kiện , nếu thì.",
+                    "content":"<div>저 두 사람은 만나기만 하면 싸워요.</div><div>Nếu Hai người kia cứ gặp nhau thì lại đánh nhau .n đó</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":201,
+                    "title":"– 다보면",
+                    "content":"<div>điều kiện ( thể hiện nếu làm cái gi đó trong 1 khoảng thời gian)</div><div>가 : 얘들이 오늘 도 싸왔다면서?</div><div>나 :놀다 보면 싸을 수도 있지 요.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":202,
+                    "title":"– 았/었다라면 ",
+                    "content":"<div>Điều kiện ( dùng trong quá khứ ) ước cái gì đó</div><div>학교 다닐 때 공부를 열심히 했더라면 원하는 회사에 취직을 할 수 있었을 거예요.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":203,
+                    "title":"– 거든",
+                    "content":"<div>Nếu thì ( dùng trong kiểu phản bác )</div><div>많이 아프거든 병원에 가세요. Nếu đau nhiều thì hãy đến bệnh viện</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":204,
+                    "title":"–는다면 : Nếu...thì",
+                    "content":"<div>지금부터라도 공부를 열심히 한다면 대학입학은 문제없을 거예요.</div><div>Nếu học chăm chỉ thì việc vào đại học sẽ k còn có vấn đề gì nữa.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":205,
+                    "title":"– 다가는",
+                    "content":"<div>Nếu...thì , hiển nhiên</div><div>콤퓨터로 일을 많이 하다가는 눈이 나빠지 거야</div><div>Nếu làm việc nhiều với máy tính mắt trở lên xấu đi.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":206,
+                    "title":"– 아/어야 (지) ",
+                    "content":"<div>Chỉ khi ( dùng ở giữa câu )</div><div>한국어를 잘해야지 대학교에 입학할 수 있어요.</div><div>Nếu mà học hành chăm chỉ thì có thể đậu đại học</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":207,
+                    "title":"– 는 한 : Nếu...thì",
+                    "content":"<div>저렇게 훌륭한 학생들이 있는 한 미래는 밝을 거예요.</div><div>Nếu mà ai cũng giỏi như cậu kia thì tương lai cũng sẽ sáng sủa hơn.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":208,
+                    "title":"–느라고",
+                    "content":"<div>Lí do vì mục đích tốt nh kết quả k tốt</div><div>가 : 피곤해 보여요. Nhìn có vẻ mệt</div><div>나 : 시험 공부하느라고 어제 잠을 못 잤어요.</div><div>Vì để ôn thi nên hqa k ngủ đc</div><div>가 : 지난주에 바빴요?</div><div>나 :네, 발표 준비를 하느라고 정신이 없었어요.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":209,
+                    "title":"– 는 바람에",
+                    "content":"<div>Lí do (dẫn đến kết quả không tốt)</div><div>컴퓨터로 일을 많이 하는 바람에 눈이 나빠졌어요. Vì dùng máy tính nhiều mắt trở lên kém đi nhiều</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":210,
+                    "title":"기때문에 : lí do",
+                    "content":"<div>아르바이트를 하기 때문에 여행 갈 시간이 없어요.</div><div>Vì đi làm thêm nên không có thời gian đi du lịch</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":211,
+                    "title":"기에 : lí do",
+                    "content":"<div>가 : 아까 왜 약을 먹었어요 ? Vừa nãy sao lại uống thuốc thế</div><div>나 : 아침에 일어났더니 열이 나기에 먹었어요.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":212,
+                    "title":"길래 : vì nên ( lí do )",
+                    "content":"<div>친구가 제가 만든 음식을 맜있게 먹길래 오늘도 만들어 줬어요.</div><div>Vì bạn tôi đã ăn thức ăn tôi làm nên hôm nay tôi lại làm cho tiếp.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":213,
+                    "title":"는 덕분에 ",
+                    "content":"<div>lí do , nhờ ai đấy mà được cái gì đấy</div><div>가 : 이사는 잘했니? Chuyển nhà tốt chứ ?</div><div>나 : 응. 친구들이 도와준 덕분에 잘 했어.</div><div>Nhờ bạn có bạn bè giúp nên ổn .</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":214,
+                    "title":"는데 : lí do , vì nên",
+                    "content":"<div>오늘은 몸도 아픈데 집에 가서 쉬세요.</div><div>Hnay người mệt nên về nhà nghỉ đi .</div><div>열심히 공부 하는데 시험을 못 봤어요.</div><div>Mặc dù học bài chăm chỉ nhưng vẫn k qa đc bài kiểm tra</div><div>오늘 명동에 가는데 같이 갈래요?</div><div>Hnay đi đến myongtong cùng tớ hông ?</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":215,
+                    "title":"는 탓에 : tại , đổ tại",
+                    "content":"<div>회사 일이 바쁜 탓에 아이들과 놀아주지 못하는 마버지들이 많아요.</div><div>Tại vì việc của công ty bận rộn nên số lượng những ông bố k chơi đc với con nhiều .</div>",
+                    "type": 3,
                     "love" : 0,
                     "ads": 0
                 }
