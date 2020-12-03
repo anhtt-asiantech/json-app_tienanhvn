@@ -1,5 +1,5 @@
 {
-            "version": 3,
+            "version": 4,
             "title": "Grammar",
             "author" : "HungAnh",
             "lesson" : [
@@ -45,14 +45,7 @@
                     "love" : 0,
                     "ads": 0
                 }
-                , {
-                    "lesson":1001,
-                    "title":"Quang cao",
-                    "content":"Quang cao",
-                    "type": 1,
-                    "love" : 0,
-                    "ads": 1
-                },
+                ,
                 {
                     "lesson":5,
                     "title":"N + 예요/이에요: Là ",
@@ -117,14 +110,7 @@
                     "love" : 0,
                     "ads": 0
                 }
-                , {
-                    "lesson":1002,
-                    "title":"Quang cao",
-                    "content":"Quang cao",
-                    "type": 1,
-                    "love" : 0,
-                    "ads": 1
-                },
+                , 
                 {
                     "lesson":13,
                     "title":"안+ V/A: Không",
@@ -244,14 +230,7 @@
                     "type": 1,
                     "love" : 0,
                     "ads": 0
-                }, {
-                    "lesson":1003,
-                    "title":"Quang cao",
-                    "content":"Quang cao",
-                    "type": 1,
-                    "love" : 0,
-                    "ads": 1
-                },
+                }, 
                 
                 {
                     "lesson":28,
@@ -372,13 +351,6 @@
                     "type": 1,
                     "love" : 0,
                     "ads": 0
-                }, {
-                    "lesson":1004,
-                    "title":"Quang cao",
-                    "content":"Quang cao",
-                    "type": 1,
-                    "love" : 0,
-                    "ads": 1
                 },
                 {
                     "lesson":43,
@@ -959,6 +931,1206 @@
                     "title":"는 탓에 : tại , đổ tại",
                     "content":"<div>회사 일이 바쁜 탓에 아이들과 놀아주지 못하는 마버지들이 많아요.</div><div>Tại vì việc của công ty bận rộn nên số lượng những ông bố k chơi đc với con nhiều .</div>",
                     "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":215,
+                    "title":"Quang Cáo",
+                    "content":"Quảng Cáo",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":216,
+                    "title":"Cấu trúc ~을/ㄹ 텐데 (chắc là, có lẽ là, dường như….)",
+                    "content":"<div>Đây là <b>cấu trúc tiếng Hàn</b> được dùng để diễn tả mệnh đề đi trước trở thành bối cảnh của mệnh đề đi sau, ở mệnh đề đi trước người nói nói về ý muốn của chính mình hoặc suy đoán một sự việc nào đó.</div><div>Từ có patchim dùng&nbsp;<b>을 텐데</b>, không có patchim dùng&nbsp;<b>ㄹ 텐데</b></div><div><br /></div><div><b><u>Ví dụ:</u></b></div><div><br /></div><div>+미선: 빌리 씨, 어제도 안 자고 일했어요?</div><div><br /></div><div>Miseon : Billy, hôm qua anh lại không ngủ rồi thức làm việc hả?</div><div><br /></div><div>빌리: 네, 일이 너무 많아서요.</div><div><br /></div><div>Billy: Vâng, tại quá có nhiều việc</div><div><br /></div><div>미선: 피곤할 텐데 좀 쉬었다가 하세요.</div><div><br /></div><div>Miseon : Chắc là anh mệt lắm rồi hãy nghỉ ngơi một chút đi rồi hãy làm việc tiếp</div><div><br /></div><div>+웨이: 정희 씨, 오늘 일이 많은가 봐요.</div><div><br /></div><div>Wei: Jeonghee, hôm nay có vẻ nhiều việc quá nhỉ.</div><div><br /></div><div>정희: 네, 오늘까지 해야 하는데 걱정이에요.</div><div><br /></div><div>Jeonghee: Vâng, phải làm hết trong hôm nay nên tôi hơi lo lắng</div><div><br /></div><div>웨이: 혼자서 하기 힘들 텐데 좀 도와 드릴까요?</div><div><br /></div><div>Wei: Nếu làm một mình thì dường như sẽ rất mệt tôi giúp cô một tay nhé?</div><div><br /></div><div>정희: 정말 고마워요. 그럼 이것 좀 해 주시겠어요?</div><div><br /></div><div>Jeonghee: Thật sự cảm ơn anh rất nhiều. Vậy anh làm cái này giúp tôi một chút được không?</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":217,
+                    "title":"CẤU TRÚC TIẾNG HÀN ~거든요. (VÌ)",
+                    "content":"<div>Được dùng để chỉ lí do hay giải thích cho một sự việc nào đó.</div><div>Ví dụ:</div><div>가: 사람들이 왜 그 영화를 봐?</div><div>A: Sao mọi người lại xem phim này nhỉ?</div><div>나: 재미있거든.</div><div>B: Thì vì nó hay mà.</div><div>가:오늘 아주 피곤해 보이네요.</div><div>A: Hôm nay trông anh có vẻ mệt mỏi thế?</div><div>나: 네, 좀 피곤해요. 어잿밤에 잠을 못 잤거든요.</div><div>B: Vâng, tôi hơi mệt. Do đêm qua tôi không ngủ được.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":218,
+                    "title":"CẤU TRÚC TIẾNG HÀN ~고말고요. (TẤT NHIÊN LÀ …)",
+                    "content":"<div>Được sử dụng để thể hiện sự đồng ý với câu hỏi của cuộc trò chuyện.</div><div>Ví dụ:</div><div><b>가: 커피 좀 더 주실 수 있어요?</b></div><div>A: Có thể cho tôi thêm chút cà phê được không ạ?</div><div><b>나: 더 드리고말고요. 얼마든지 드세요.</b></div><div>B: Tất nhiên là được rồi ạ. Quý khách cứ dùng tùy ý.</div><div><b>가: 그 사람을 잘 아시죠?</b></div><div>A: Anh biết người kia chứ?</div><div><b>나: 네, 알고말고요.</b></div><div>B: Vâng, tất nhiên là biết rồi.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":219,
+                    "title":"Cấu trúc ~었었/았었/였었",
+                    "content":"<div>Đây là cấu trúc của thì quá khứ hoàn thành trong tiếng Hàn. Nói về những hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ không lặp lại ở hiện tại.</div><h3 style=\"text-align: left;\">Ví dụ:</h3><div><b>지금은 너무 바빠서 못 치지만 옛날에는 탁구를 자주 쳤었어요.</b></div><div>Bây giờ bận quá tôi không thể chơi được chứ ngày trước tôi rất hay chơi bóng bàn.</div><div><b>지난 주말에는 많이 아팠었어요.</b></div><div>Cuối tuần trước tôi đã bị ốm rất nặng</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":220,
+                    "title":"Cấu trúc ~던데",
+                    "content":"<div>Kinh nghiệm của người nói mà mệnh đề đi trước diễn đạt trở thành bối cảnh hay tình huống cho mệnh đề đi sau.</div><div>Ví dụ:</div><div><b>가: 오늘 저녁을 어디에서 먹을 까?</b></div><div>A: Hôm nay chúng ta sẽ đi ăn tối ở đâu được nhỉ?</div><div><b>나: 학교 앞에 새로 생긴 식당 음식이 맛있던데 그 식당에 갑시다.</b></div><div>B: Quán ăn mới mở ở phía trước trường ngon lắm đến đó ăn đi.</div><div><b>가: 마리아가 울던데 무슨 일이야?</b></div><div>A: Vừa nãy Maria có khóc, có chuyện gì thế?</div><div><b>나: 나도 모르겠어. 안 좋은 일이 생긴 것 같아.</b></div><div>B: Tớ cũng không biết. Chắc là có chuyện gì đó không vui xảy ra.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":221,
+                    "title":"Cấu trúc bị động trong tiếng Hàn Quốc",
+                    "content":"<div>Giống như trong tiếng Anh, tiếng Hàn cũng có hình thức bị động và động từ ở thể bị động cũng sẽ có</div><div>chút thay đổi. Hình thức bị động trong tiếng Hàn có thể bắt gặp các từ sau <b>이, 히, 리, 기</b></div><div>Một số động từ ở dạng bị động</div><div><ol style=\"text-align: left;\"><li><b>보다 – 보이다 잡다 – 잡히다 걸다 – 걸리다 안다 – 안기다</b></li><li><b>쌓다 –쌓이다 읽다 – 읽히다 팔다 – 팔리다 씻다 – 씻기다</b></li><li><b>놓다 –놓이다 밟다 – 밟히다 열다 – 열리다 쫓다 – 쫓기다</b></li><li><b>바꾸다 – 바뀌다 먹다 – 먹히다 듣다 – 들리다 끊다 – 끊기다</b></li><li><b>우리 학교에서는 기숙사가 보인다.</b></li></ol></div><div>Từ trường có thể thấy được kí túc xá</div><div><b>엄마 품에 안겨 있는 아이의 모습이 정말 예쁘다.</b></div><div>Hình ảnh đứa trẻ được mẹ ôm vào lòng thật sự rất đẹp</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":222,
+                    "title":"Cấu trúc ~아/어/여 놓다",
+                    "content":"<div>Ý nói là một hành động nào đó đã được hoàn thành và vẫn giữ nguyên trạng thái đó đến hiện tại.</div><h3 style=\"text-align: left;\">Ví dụ:</h3><div><b>엄마: 방 청소는 다 했어?</b></div><div>Mẹ : Đã dọn phòng chưa?</div><div><b>아들: 네, 오늘 아침에 다 해 놓았어요.</b></div><div>Con trai: Dạ, con đã dọn xong hết rồi</div><div><b>아이들 간식은 만들어 놓았으니까 이따가 좀 챙겨 주세요.</b></div><div>Em đã làm xong mấy món ăn nhẹ cho bọn trẻ, lát nữa anh cho chúng ăn nhé.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":223,
+                    "title":"Cấu trúc ~어야/ 아야/ 여야 ( phải…)",
+                    "content":"<div>Được sưt dụng khi tình huống đầu câu là điều kiện bắt buộc để tình huống thứ 2 xảy ra. Tức là có thể làm gì chỉ khi hành động ở tình huống 1 xảy ra.</div><h3 style=\"text-align: left;\">Ví dụ:</h3><div><b>매일 운동을 해야 건강하게 지낼 수 있어요.</b></div><div>Phải tập thể dục mỗi ngày thì mới có thể sống khỏe mạnh được</div><div><b>약을 먹어야 빨리 나을 거예요.</b></div><div>Phải uống thuốc thì mới mau khỏi bệnh</div><div><b>비가 와야 나무가 잘 자랄 수 있어요.</b></div><div>Phải có mưa thì cây mới có thể phát triển.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":224,
+                    "title":"Quang Cáo",
+                    "content":"Quảng Cáo",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":225,
+                    "title":"Cấu trúc ~는 다면/ ㄴ다면 /다면; 이라면/라면 (nếu như, giả sử…)",
+                    "content":"<div>Được sử dụng cho tình huống giả định nhưng tình huống này ít có khả năng sẽ xảy ra. Thường đi kèm với các từ như <b>만약, 만일</b></div><div>Động từ có patchim dùng ~는 다면, không có patchim dùng ~ ㄴ다면</div><div><b>Tính từ dùng다면</b></div><div>Danh từ có patchim dùng이라면, không có patchim dùng라면</div><h3 style=\"text-align: left;\">Ví dụ:</h3><div>만약 지금 누구든지 만날 수 있다면 할아버지를 만나고 싶어요.</div><div>Giả sử nếu như bây giờ tôi có thể gặp một ai đó thì tôi mong có thể gặp ông tôi.</div><div>만일 하루만 살 수 있다면 그 하루 동안에는 가족하고 사랑하는 사람들과 보낼 거예요.</div><div>Giả sử tôi chỉ còn có thể sống 1 ngày nữa tôi muốn dành ngày đó bên gia đình và những người mà tôi</div><div>yêu thương.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":226,
+                    "title":"Cấu trúc ~어야지/ 아야지/ 여야지 ( thì phải, đương nhiên là phải…)",
+                    "content":"<div><b>Cấu trúc ngữ pháp tiếng Hàn</b> này được dùng để nói rằng những gì mà người nghe hoặc 1 bên thứ ba sẽ phải làm gì đó. Điểm ngữ pháp này được sử dụng trong cuộc trò chuyện với những người thân hoặc những trẻ tuổi hơn. Hoặc cũng có thể được sử dụng khi người nói đang thực hiện lời hứa với chính mình.</div><h3 style=\"text-align: left;\">Ví dụ:</h3><div>늦을 것 같으면 미리 연락해야지.</div><div>Nếu như đến muộn thì phải liên lạc nói trước chứ.</div><div>잊어버리지 않으려면 중요한 일은 메모해 놓아야지요.</div><div>Để không quên thì phải ghi chú lại những nội dung quan trọng chứ.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":227,
+                    "title":"Bị động từ trong tiếng Hàn",
+                    "content":"<div>Là một hình thức khác của bị động, ở hình này thì bản thân không tự làm mà nhờ người khác làm, hoặc ai đó làm gì cho một đối tượng khác.</div><div><b>Một số động từ:</b></div><div><ul style=\"text-align: left;\"><li>보다 – 보이다 앉다 – 앉히다 살다 – 살리다 웃다 – 웃기다 자다 – 재우다</li><li>먹다 – 먹이다 읽다 – 읽히다 알다 – 알리다 벗다 – 벗기다 타다 – 태우다</li><li>죽다 – 죽이다 입다 – 입히다 울다 – 울리다 남다 – 남기다 깨다 – 깨우다</li><li>끊다 – 끊이다 눕다 – 눕히다 듣다 – 들리다 숨다 –숨기다 서다 – 세우다</li><li>낮다 – 낮추다 늦다 – 늦추다 맞다 – 맞추다 맡다 – 맡기다</li></ul></div><h3 style=\"text-align: left;\">Ví dụ:</h3><div>아저씨, 생일카드 좀 보여 주세요.</div><div>Chú ơi, chú cho cháu xem tâm thiệp sinh nhật chút được không ạ.</div><div>부장이 나에게 그 일을 맡겼어요.</div><div>Giám đốc đã giao cho tôi việc này.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":228,
+                    "title":"~ 이라든가/라든가 ( NHƯ LÀ, CHẲNG HẠN…)",
+                    "content":"<div>Danh từ có patchim dùng <b>이라든가</b>, không có patchim dùng<b> 라든가</b></div><div>Được dùng để đưa ra các ví dụ</div><h3 style=\"text-align: left;\">Ví dụ:</h3><div>반지라든가 장식품같은 것이 좋아요.</div><div>Tôi thích đồ trang sức như là nhẫn.</div><div>건설현장은 기계 소리라든가 망치소리라든가 하는 소리로 시끄럽다.</div><div>Công trường xây dựng ồn ào những âm thanh như là tiếng máy, tiếng búa.</div>",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":229,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":230,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":231,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":232,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":233,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":234,
+                    "title":"Quang cáo",
+                    "content":"Quang cáo",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":235,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":236,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":237,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":238,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":239,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":240,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":241,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":242,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":243,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":244,
+                    "title":"Quang Cáo",
+                    "content":"Quang cáo",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":245,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":246,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":247,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":248,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":249,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":250,
+                    "title":"",
+                    "content":"",
+                    "type": 3,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":251,
+                    "title":"Topik 4",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":252,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":253,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":254,
+                    "title":"Quang cáo",
+                    "content":"Quang cáo",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":256,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":257,
+                    "title":"",
+                    "content":"",
+                    "type": 7,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":258,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":259,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":260,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":261,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":262,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":263,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":264,
+                    "title":"Quang cao",
+                    "content":"Quang cao",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":265,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":266,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":267,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":268,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":269,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":270,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":271,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":272,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":273,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":274,
+                    "title":"Quang cao",
+                    "content":"Quang cao",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":275,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":276,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":277,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":278,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":279,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":280,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":281,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":282,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":283,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":284,
+                    "title":"Quang cao",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":285,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":286,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":287,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":288,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":289,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":290,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":291,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":292,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":293,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":294,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":295,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":296,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":297,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":298,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":299,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":300,
+                    "title":"",
+                    "content":"",
+                    "type": 4,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":301,
+                    "title":"Topik 5",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":302,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":303,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":304,
+                    "title":"Quang cao",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":305,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":306,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":307,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":308,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":309,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":310,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":311,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":312,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":313,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":314,
+                    "title":"Quang cao",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":315,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":316,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":317,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":318,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":319,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":320,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":321,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":322,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":323,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":324,
+                    "title":"Quang cao",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":325,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":326,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":327,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":328,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":329,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":330,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":331,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":332,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":333,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":334,
+                    "title":"Quang cao",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":335,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":336,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":337,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":338,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":339,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":340,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":341,
+                    "title":"",
+                    "content":"",
+                    "type": 5,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":350,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":351,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":352,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":353,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":354,
+                    "title":"Quang cao",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":355,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":356,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":357,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":358,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":359,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":360,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":361,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":362,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":363,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":364,
+                    "title":"Quang cao",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 1
+                },
+                {
+                    "lesson":365,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":366,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":367,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":368,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":369,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":370,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":371,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":372,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
+                    "love" : 0,
+                    "ads": 0
+                },
+                {
+                    "lesson":373,
+                    "title":"Topik 6",
+                    "content":"",
+                    "type": 6,
                     "love" : 0,
                     "ads": 0
                 }
