@@ -18,17 +18,17 @@
         {
             "type": 4,
             "title": "Topik IV",
-            "status": 0
+            "status": 1
         },
         {
             "type": 5,
             "title": "Topik V",
-            "status": 0
+            "status": 1
         },
         {
             "type": 6,
             "title": "Topik VI",
-            "status": 0
+            "status": 1
         }
     ]
 }
