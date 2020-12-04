@@ -1,5 +1,5 @@
 {
-            "version": 4,
+            "version": 5,
             "title": "Grammar",
             "author" : "HungAnh",
             "lesson" : [
@@ -1252,7 +1252,7 @@
                     "content":"Quang cáo",
                     "type": 4,
                     "love" : 0,
-                    "ads": 0
+                    "ads": 1
                 },
                 {
                     "lesson":256,
