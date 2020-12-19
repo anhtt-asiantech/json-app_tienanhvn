@@ -1,0 +1,46 @@
+{
+    "type": [
+        {
+            "ads":0,
+            "title":"Peacock HD Wallpaper",
+            "url": "https://i.pinimg.com/236x/03/0b/e3/030be3df8642a87e255fc35fb4c915f0.jpg",
+            "type": 0
+        },
+        {
+            "ads":0,
+            "title":"Peacock 3D Wallpaper",
+            "url": "https://i.pinimg.com/236x/91/91/cb/9191cbb976481680a5a0c5f54c769211.jpg",
+            "type": 1
+        },
+        {
+            "ads":0,
+            "title":"Peacock 4K Wallpaper",
+            "url": "https://i.pinimg.com/236x/eb/85/bf/eb85bffe890e15e6ba53f9435ed9acc5.jpg",
+            "type": 2
+        },
+        {
+            "ads":1,
+            "title":"Quang cao",
+            "url": "https://i.pinimg.com/236x/eb/85/bf/eb85bffe890e15e6ba53f9435ed9acc5.jpg",
+            "type": 3
+        },
+        {
+            "ads":0,
+            "title":"Peacock white",
+            "url": "https://i.pinimg.com/236x/16/af/74/16af7433579a99847f6c43335edb5f76.jpg",
+            "type": 4
+        },
+        {
+            "ads":0,
+            "title":"Peacock art",
+            "url": "https://i.pinimg.com/236x/d0/27/d2/d027d22ab7bf182b94eb349fe3a663b6.jpg",
+            "type": 5
+        },
+        {
+            "ads":0,
+            "title":"Peacock photography",
+            "url": "https://i.pinimg.com/236x/74/1c/f7/741cf7f03321199206f59cb37340dab0.jpg",
+            "type": 6
+        }
+    ]
+}
