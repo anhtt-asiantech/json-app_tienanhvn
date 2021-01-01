@@ -2,101 +2,95 @@
     "listFrames": [
         {
             "position" : 0,
-            "url" : "https://i.pinimg.com/236x/5c/9b/2a/5c9b2a1e165f11d4731df1dd1216c5c0.jpg",
+            "url" : "https://i.ibb.co/yQr7xqk/6c34b79ad9cb19f05345ef07ccf626e8.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 1,
-            "url" : "https://i.pinimg.com/236x/4a/11/23/4a11230a0df44bf0e8bd5170a5313767.jpg",
+            "url" : "https://i.ibb.co/8D6sj1L/ff1dd1c570a9d81b2124e9188f96ab62.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 2,
-            "url" : "https://i.pinimg.com/236x/9e/ff/f1/9efff131b8f66aec175ee2e71ba63c79.jpg",
+            "url" : "https://i.ibb.co/JsC38YV/dd1e0797558e430be3fe56568ac1cb96.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },{
             "position" : 3,
-            "url" : "https://i.pinimg.com/236x/13/3b/e4/133be41c05fe6b0f26a94a9e8e3b7e1f.jpg",
+            "url" : "https://i.ibb.co/X2kD68C/bb8493948417f5023097b9c4fa041256.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 4,
-            "url" : "https://i.pinimg.com/236x/73/cf/62/73cf62b3bcb4fb55be5244560ea0cd29.jpg",
+            "url" : "https://i.ibb.co/CMSDTv1/b.png",
             "type" : 1,
             "select": 0,
             "ads": 1
         },
         {
             "position" : 5,
-            "url" : "https://i.pinimg.com/236x/89/27/ed/8927ed33fd173632f4b0444df21be05a.jpg",
+            "url" : "https://i.ibb.co/gD0kDwC/780481551c27717da7d01bf9727007cf.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 6,
-            "url" : "https://i.pinimg.com/236x/56/57/3a/56573af9c9844c3f392b368edd2ca8a4.jpg",
+            "url" : "https://i.ibb.co/zGc2vDh/17333537e70583a4bd6ee1fe5338a01e.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 7,
-            "url" : "https://i.pinimg.com/236x/93/2c/c6/932cc6ddbaa1818aa2e18ba12bb881b4.jpg",
+            "url" : "https://i.ibb.co/5Lhj6hC/4fc16d486aa96a00ede05ab35aa318cf.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 8,
-            "url" : "https://i.pinimg.com/236x/94/ff/3f/94ff3f14ca0673085bd4c2908eaff79b.jpg",
+            "url" : "https://i.ibb.co/yQr7xqk/6c34b79ad9cb19f05345ef07ccf626e8.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 9,
-            "url" : "https://i.pinimg.com/236x/d7/cd/24/d7cd24420886daa762be8ef1d57fdd51.jpg",
+            "url" : "https://i.ibb.co/gM2PKbQ/60770d6a54c15ca9abb8fda47645be3a.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },{
             "position" : 10,
-            "url" : "https://i.pinimg.com/236x/73/cf/62/73cf62b3bcb4fb55be5244560ea0cd29.jpg",
+            "url" : "https://i.ibb.co/5cCgbZZ/8060f4c6a9b26620d768ba82e2ef1814.png",
             "type" : 1,
             "select": 0,
             "ads": 1
         },
         {
             "position" : 11,
-            "url" : "https://i.pinimg.com/236x/da/17/a7/da17a7ef9032978a0618789956151a55.jpg",
+            "url" : "https://i.ibb.co/kB4K048/7220e8e36ba8092d717408d1710a184d.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },{
             "position" : 12,
-            "url" : "https://i.pinimg.com/236x/61/12/80/611280f80a2528222456544b12751cef.jpg",
+            "url" : "https://i.ibb.co/rfSZCFN/477ec41cf5e330f8777ac5d17b58d213.png",
             "type" : 1,
             "select": 0,
             "ads": 0
         },
         {
             "position" : 13,
-            "url" : "https://i.pinimg.com/236x/0c/6f/dc/0c6fdcf2bb8edb4d7732b8d03b214fed.jpg",
-            "type" : 1,
-            "select": 0,
-            "ads": 0
-        },{
-            "position" : 14,
-            "url" : "https://i.pinimg.com/236x/80/04/9c/80049cf2a1748160214809d9de506c32.jpg",
+            "url" : "https://i.ibb.co/CMSDTv1/b.png",
             "type" : 1,
             "select": 0,
             "ads": 0
@@ -109,5 +103,5 @@
             "ads": 1
         }
     ],
-    "version" :1
+    "version" :2
 }
